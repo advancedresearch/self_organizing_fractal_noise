@@ -35,3 +35,4 @@ Since there are two solutions of a chess pattern, the two solutions are labeled 
 - [Pink noise - Wikipedia article](https://en.wikipedia.org/wiki/Pink_noise)
 - [Perlin noise - Wikipedia article](https://en.wikipedia.org/wiki/Perlin_noise)
 - [Self-organized criticality - Wikipedia article](https://en.wikipedia.org/wiki/Self-organized_criticality)
+- [Self-organized Criticality: An explanation of 1/f noise - Slides](https://courses.physics.illinois.edu/phys596/fa2016/StudentWork/team7_final.pdf)
