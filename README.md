@@ -8,6 +8,7 @@ Research on self-organizing fractal noise
 
 - [Boolean Fractal Noise](https://www.youtube.com/watch?v=3-x_FXgWqLA)
 - [Continuous Fractal Noise - 2 bit](https://www.youtube.com/watch?v=8fQYQm74Arc)
+- [Continuous Fractal Noise - 4 bit](https://www.youtube.com/watch?v=aPPpjYyqgbM)
 
 ### Introduction
 
