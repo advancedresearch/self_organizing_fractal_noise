@@ -12,6 +12,7 @@ Research on self-organizing fractal noise
 - [Continuous Fractal Noise - 8 bit](https://www.youtube.com/watch?v=N47nV-qbTIk)
 - [Continuous Fractal Noise - 16 bit](https://www.youtube.com/watch?v=9k5yTErsfbU)
 - [Continuous Fractal Noise - 32 bit](https://www.youtube.com/watch?v=mrfTdTlXrko)
+- [Continuous Fractal Noise - 64 bit](https://www.youtube.com/watch?v=SxlmPGjzGFE)
 
 ### Introduction
 
