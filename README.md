@@ -4,6 +4,10 @@ Research on self-organizing fractal noise
 ![boolean fractal noise](https://github.com/advancedresearch/self_organizing_fractal_noise/blob/master/images/boolean-fractal-noise.png)
 ###### Boolean Fractal Noise using a simple self-organizing non-deterministic algorithm
 
+### Videos
+
+- [Boolean Fractal Noise](https://www.youtube.com/watch?v=3-x_FXgWqLA)
+
 ### Introduction
 
 [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise) rescaled and added into itself to produce Fractal Noise (also called [Pink noise](https://en.wikipedia.org/wiki/Pink_noise)):
