@@ -23,7 +23,7 @@ The boundary between phase-shifted solutions of long-term behavior is fractal-sh
 Fractal Noise is constructed by visualizing the phase over the space.
 With other words, this approach constructs Fractal Noise indirectly, explaining it in terms of an underlying space.
 
-For example, a chess pattern is a solution of the underlying space that give rise to Boolean Fractal Noise.
+For example, a chess pattern is a solution of the underlying space that gives rise to Boolean Fractal Noise.
 Since there are two solutions of a chess pattern, the two solutions are labeled with white and black color.
 
 ### To learn more
