@@ -17,12 +17,12 @@ Research on self-organizing fractal noise
 
 ### Introduction
 
-[Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise) rescaled and added into itself to produce Fractal Noise (also called [Pink noise](https://en.wikipedia.org/wiki/Pink_noise)):
+[Gradient noise](https://en.wikipedia.org/wiki/Gradient_noise) rescaled and added into itself to produce Fractal Noise (also called [Pink noise](https://en.wikipedia.org/wiki/Pink_noise)):
 
-![Fractal noise](https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Perlin.png/128px-Perlin.png)
+![Fractal noise](https://noiseposti.ng/assets/images/general/SimplexFractal-128.png)
 
 Fractal Noise is one of the most common signals in biological systems.
-Using Perlin noise (or, in general [Gradient Noise](https://en.wikipedia.org/wiki/Gradient_noise)) as building block is an efficient way of constructing Fractal Noise.
+Using Gradient noise (specific examples of which include [Simplex Noise](https://en.wikipedia.org/wiki/Simplex_noise) and [Perlin Noise](https://en.wikipedia.org/wiki/Perlin_noise)) as building block is an efficient way of constructing Fractal Noise.
 However, other ways of constructing Fractal Noise are interesting for research because they lead to better understanding.
 
 This research project studies Fractal Noise from the perspective of [self-organized criticality](https://en.wikipedia.org/wiki/Self-organized_criticality),
