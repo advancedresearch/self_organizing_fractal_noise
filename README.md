@@ -37,6 +37,8 @@ With other words, this approach constructs Fractal Noise indirectly, explaining 
 For example, a chess pattern is a solution of the underlying space that gives rise to Boolean Fractal Noise.
 Since there are two solutions of a chess pattern, the two solutions are labeled with white and black color.
 
+![chess-regions](./images/chess-regions.png)
+
 ### To learn more
 
 - [Sequences for learning about Self-Organizing Fractal Noise](https://github.com/advancedresearch/self_organizing_fractal_noise/blob/master/sequences.md)
