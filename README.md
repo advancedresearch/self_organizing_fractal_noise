@@ -19,7 +19,7 @@ Research on self-organizing fractal noise
 
 [Gradient noise](https://en.wikipedia.org/wiki/Gradient_noise) rescaled and added into itself to produce Fractal Noise (also called [Pink noise](https://en.wikipedia.org/wiki/Pink_noise)):
 
-![Fractal noise](https://noiseposti.ng/assets/images/general/Simplex-128.png)
+![Fractal noise](https://noiseposti.ng/assets/images/general/Simplex-Fractal-128.png)
 
 Fractal Noise is one of the most common signals in biological systems.
 Using Gradient noise (specific examples of which include [Simplex Noise](https://en.wikipedia.org/wiki/Simplex_noise) and [Perlin Noise](https://en.wikipedia.org/wiki/Perlin_noise)) as building block is an efficient way of constructing Fractal Noise.
